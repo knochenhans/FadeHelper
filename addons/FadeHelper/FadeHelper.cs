@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
 using Godot;
 
-public static class FadeManager
+public static class FadeHelper
 {
 	public enum FadeDirectionEnum
 	{
